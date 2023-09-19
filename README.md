@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web Development, I use [Laravel](https://laravel.com) which is a framework of PHP.
 
-<!--
-**Ridoy-paul/Ridoy-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills I have
+* Language: C, C++, PHP, Dart, Python(basic).
+* Frameworks: Laravel, Bootstrap, 🌱 I'm currently learning Flutter.
+* Database: MySQL, SQL Server.
+* Good problem-solving skills.
+* Proper knowledge of GitHub.
+* Have good experience with the SDLC model.
+* Have good experience in Database design.
+* Have good experience UI design.
+* Experience in architectural design and the ability to effectively communicate and advocate these concepts to diverse teams.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me at
+**Email:** cse.ridoypaul@gmail.com
