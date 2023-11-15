@@ -3,7 +3,7 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 
 ### Skills I have
 * Language: C, C++, PHP, Dart, Python(basic).
-* Frameworks: Laravel, Bootstrap, 🌱 I'm currently learning Flutter.
+* Frameworks: Laravel, Bootstrap, Flutter.
 * Database: MySQL, SQL Server.
 * Good problem-solving skills.
 * Proper knowledge of GitHub.
