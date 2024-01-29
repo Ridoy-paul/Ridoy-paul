@@ -12,7 +12,8 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 * Have good experience UI design.
 * Experience in architectural design and the ability to effectively communicate and advocate these concepts to diverse teams.
 
-  [![Ridoy Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
+[![Ridoy Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
 
 ### Reach me at
 **Email:** cse.ridoypaul@gmail.com
