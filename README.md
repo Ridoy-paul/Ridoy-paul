@@ -26,5 +26,7 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
   <img src="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true" />
 </picture>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ridoy-paul)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Reach me at
 **Email:** cse.ridoypaul@gmail.com
