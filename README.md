@@ -15,5 +15,17 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
 [![Ridoy Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true" />
+</picture>
+
 ### Reach me at
 **Email:** cse.ridoypaul@gmail.com
