@@ -12,6 +12,16 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 * Have good experience UI design.
 * Experience in architectural design and the ability to effectively communicate and advocate these concepts to diverse teams.
 
+<div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/Ridoy-paul/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul" />
+    </a>
+    <a href="https://github.com/Ridoy-paul/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true" />
+    </a>
+</div>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
 
 <picture>
@@ -25,8 +35,6 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true" />
 </picture>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ridoy-paul)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me at
 **Email:** cse.ridoypaul@gmail.com
