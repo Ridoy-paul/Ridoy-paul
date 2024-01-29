@@ -13,12 +13,11 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 * Experience in architectural design and the ability to effectively communicate and advocate these concepts to diverse teams.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
-[![Ridoy Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridoy-paul)](https://github.com/Ridoy-paul/github-readme-stats)
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true"
