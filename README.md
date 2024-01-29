@@ -14,7 +14,7 @@ I'm Ridoy Chandra Paul. I'm currently working on Web App Development. For Web De
 
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/Ridoy-paul/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-paul&layout=compact" />
     </a>
     <a href="https://github.com/Ridoy-paul/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ridoy-paul&show_icons=true" />
